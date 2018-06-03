@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+title:              Dan Batcheldor
+bio:                'Astronomer - Teacher - Husband - Father'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://danielbatcheldor.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -34,20 +34,14 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            danbatcheldor
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Melbourne, FL, USA, Earth, Sol System
+email:              dpbatcheldor@gmail.com
 
 # Gems
 gems:
-  - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
@@ -55,9 +49,6 @@ gems:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
-
-jekyll-mentions:
-    base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
