@@ -4481,3 +4481,7 @@
 		}
 
 	}
+
+	.publist p {
+		text-align: left;
+	}
