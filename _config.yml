@@ -30,8 +30,6 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
-disqus_shortname:   default
 
 # Social
 twitter:            danbatcheldor
@@ -42,7 +40,6 @@ email:              dpbatcheldor@gmail.com
 
 # Gems
 gems:
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
