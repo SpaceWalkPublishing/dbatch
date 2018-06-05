@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About Dan Batcheldor
+title: About Daniel Batcheldor
 description: A Brief Biography
 ---
-## About Dan Batcheldor
+## About Daniel Batcheldor
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
