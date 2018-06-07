@@ -46,3 +46,6 @@ And so, once begin to turn the tide of anti-intellectualism, we must overhaul ou
 <p>
 This is why I am a scientist, and this is why I chose to become a United States citizen.
 </p>
+
+### The Process
+I submitted the N-400 paperwork to petition for Citizenship on October 31st, 2017. I had been living in the U.S. since 2004. I am one of about 6,000 professional astrophysicists on Earth. My path to citizenship was through marriage and included the J-1 and H1-B VISAs before a Greencard. My Naturalization ceremony was on May 10th, 2018. The above blog post is adapted from a speech I gave at the 2018 March for Science in Orlanda, Florida.
