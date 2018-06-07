@@ -42,11 +42,16 @@ We must use the awe of science to overhaul our species appreciation for life. We
 As we March ever toward a more perfect union, we must demand that science drives policy: Policies based on evidence and not the deep pockets of special interests; policies based on liberty and justice for all, and not forced from a bigoted oligarchy; policies that protect our future, our children’s future, and the future of our planet; policies not sold out to greedy corporations choking our environment and holding our health hostage.
 </p>
 <p>
-And so, once begin to turn the tide of anti-intellectualism, we must overhaul our education system to unashamedly include scientifically progressive curricula. Imagine a country filled with critical thinkers. Imagine a country filled with voters immune to logical fallacies. Imagine a country bursting with cosmic humility and numeracy. Imagine a country where science leads the way and ensures we can all live long and prosper.
+And so, once we begin to turn the tide of anti-intellectualism, we must overhaul our education system to unashamedly include scientifically progressive curricula. Imagine a country filled with critical thinkers. Imagine a country filled with voters immune to logical fallacies. Imagine a country bursting with cosmic humility and numeracy. Imagine a country where science leads the way and ensures we can all live long and prosper.
 </p>
 <p>
 This is why I am a scientist, and this is why I chose to become a United States citizen.
 </p>
 
 ### The Process
-I submitted the N-400 paperwork to petition for Citizenship on October 31st, 2017. I had been working in the U.S. since 2004. My path to citizenship began with the J-1 and H1-B VISAs before a greencard supported by my wife. My Naturalization ceremony was on May 10th, 2018. The above blog post is adapted from a speech I gave at the 2018 March for Science in Orlando, Florida.
+<p>
+I submitted the N-400 paperwork to petition for Citizenship on October 31st, 2017. I had been working in the U.S. since 2004. My path to citizenship began with the J-1 and H1-B VISAs before a being granted a greencard supported by my wife. My Naturalization ceremony was on May 10th, 2018 in Orando, Florida.
+</p>
+<p>
+The above blog post is adapted from a speech I gave at the 2018 March for Science in Orlando, Florida.
+</p>
