@@ -38,6 +38,7 @@ Proudly leading these orbiting observatories has been the Hubble Space Telescope
 <p>
 We must use the awe of science to overhaul our species appreciation for life. We must spread the significance of science and how it impacts our lives. It extends us, saves us, and gives us the opportunity to make ourselves, and each other, comfortable, fulfilled, and happy.
 </p>
+<p>
 As we March ever toward a more perfect union, we must demand that science drives policy: Policies based on evidence and not the deep pockets of special interests; policies based on liberty and justice for all, and not forced from a bigoted oligarchy; policies that protect our future, our children’s future, and the future of our planet; policies not sold out to greedy corporations choking our environment and holding our health hostage.
 </p>
 <p>
