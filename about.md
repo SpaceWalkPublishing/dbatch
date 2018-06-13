@@ -25,12 +25,12 @@ Like many people, I like to build things. Sometimes I rebuild things after purpo
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/pic05.png" | absolute_url }}" alt="" /></span>
 <p>
 My wife and I moved to the Sunshine State in 2010 for a faculty position at Florida Institute of Technology. Capitalizing on the benefits of the Space Coast, I've been able to take my research in directions I never thought possible. Through a bit of good fortune some of that research was launched by SpaceX to the International Space Station.
 </p>
 <p>
-Florida is always exciting--the space activities, the weather, the politics. I'm professionally keyed into the space activities, my family and I are prepared as best we can for the weather, and the politics are something I hope I can help with.
+Florida is always exciting&mdash;the space activities, the weather, the politics. I'm professionally keyed into the space activities, my family and I are prepared as best we can for the weather, and the politics are something I hope I can help with.
 </p>
 <p>
 At the end of the day I think I can sit down and respectfully chat with anyone. I will listen, learn, and ask questions when necessary. I think we all share common ground. We can all agree children need special protection and attention, that everyone deserves a chance at happiness, and that we shouldn't make our planet uninhabitable.
