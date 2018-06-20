@@ -21,7 +21,7 @@ Like many people, I like to build things. Sometimes I rebuild things after purpo
 ### Moving to the U.S.
 <div class="box">
   <p>
-  In 2004, there were many more career opportunities for me in the U.S. than in the U.K., and I followed my Ph.D. advisor  to upstate New York, where he to led the Physics Department at Rochester Institute of Technology. I spent six years in Rochester, where I won several opportunities to use the Hubble Space Telescope, played quite a bit of rugby, made life-long friends, and met my wife.
+  In 2004, there were many more career opportunities for me in the U.S. than in the U.K., and I followed my Ph.D. advisor to upstate New York, where he led the Physics Department at Rochester Institute of Technology. I spent six years in Rochester, where I won several opportunities to use the Hubble Space Telescope, played quite a bit of rugby, made life-long friends, and met my wife.
   </p>
 </div>
 
@@ -33,5 +33,5 @@ My wife and I moved to the Sunshine State in 2010 for a faculty position at Flor
 Florida is always exciting&mdash;the space activities, the weather, the politics. I'm professionally keyed into the space activities, my family and I are prepared as best we can for the weather, and the politics are something I hope I can help with.
 </p>
 <p>
-At the end of the day I think I can sit down and respectfully chat with anyone. I will listen, learn, and ask questions when necessary. I think we all share common ground. We can all agree children need special protection and attention, that everyone deserves a chance at happiness, and that we shouldn't make our planet uninhabitable.
+At the end of the day I think I can sit down and respectfully chat with anyone. I will listen, learn, and ask questions when necessary. I think we all share common ground. We can all agree children need special protection and attention, that everyone deserves a chance at happiness, and that we shouldn't make our planet uninhabitable. Let me know if you think I'm right or if I'm wrong.
 </p>     
