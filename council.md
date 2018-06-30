@@ -63,7 +63,7 @@ The Police Athletic League (PAL) is a wonderful program that brings the youth of
 <a id="hurricanes"></a>
 ### Hurricanes
 <p>
-We live in Florida. Hurricanes happen and we must be as prepared as possible when the do. I was proud to see our Mayor Hal Rose leading by example during Matthew in 2016 and Irma in 2017. I bumped into him helping our residents fill sand bags before the winds and rain hit.
+We live in Florida. Hurricanes happen and we must be as prepared as possible when they do. I was proud to see our Mayor Hal Rose leading by example during Matthew in 2016 and Irma in 2017. I bumped into him helping our residents fill sand bags before the winds and rain hit.
 </p>
 <p>
 But hurricane preparedness is a year-round activity. The City Council should help people get prepared early and stay prepared for as long as necessary. We must give ourselves every opportunity to be proactive rather than reactive about hurricanes.
