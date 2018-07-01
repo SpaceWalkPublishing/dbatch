@@ -124,3 +124,9 @@ A clean, efficient, and sustainable community comes about through intensive team
 If you would rather mail a check, then thank you. Checks should be made out to "Daniel Batcheldor Campaign Account" and sent to P.O. Box 120391, West Melbourne, FL 32912. Please be sure to include your name, address, phone number, occupation and employer with any donations, because these details are required for Campaign Financing regulations.
   </p>
 </div>
+
+<div class="box">
+  <p>
+Paid for by Daniel Batcheldor for West Melbourne City Council.
+  </p>
+</div>
