@@ -126,7 +126,7 @@ If you would rather mail a check, then thank you. Checks should be made out to "
 </div>
 
 <div class="box">
-  <p>
+  <p style="text-align:center">
 Paid for by Daniel Batcheldor for West Melbourne City Council.
   </p>
 </div>
