@@ -97,7 +97,7 @@ City planning should be taken very seriously and we should hold contractors oper
 </p>
 
 <a id="business"></a>
-### Local businesses.
+### Local businesses
 
 West Melbourne is a prime location for businesses. There is easy access from I95, and we are the corridor to Downtown Melbourne and beachside. Local businesses support our community with jobs and quality services. I will carefully consider how to retain our excellent local businesses, attract new ones, and support strategic development that has a minimal impact on our residents' quality of life.
 
