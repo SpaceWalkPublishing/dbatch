@@ -113,10 +113,14 @@ A clean, efficient, and sustainable community comes about through intensive team
 
 <div class="box">
   <p>
-<i>If you have any city issues that you'd like to hear my opinion on, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a>.</i>
+<i>If you have any city issues that you'd like to hear my opinion on, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
   </p>
-
 </div>
-<p style="text-align:center">PO BOX 120391, West Melbourne, FL 32912</p>
+
 <p style="text-align:center">CROWDPAC donations being gratefully accepted beginning July.</p>
-<p style="text-align:center">If you would rather mail a check, then thank you. Checks should be made out to "Daniel Batcheldor Campaign Account" and sent to P.O. Box 120391, West Melbourne, FL 32912. Please be sure to include your name, address, phone number, occupation and employer with any donations, because these details are required for Campaign Financing regulations.</p>
+
+<div class="box">
+  <p>
+If you would rather mail a check, then thank you. Checks should be made out to "Daniel Batcheldor Campaign Account" and sent to P.O. Box 120391, West Melbourne, FL 32912. Please be sure to include your name, address, phone number, occupation and employer with any donations, because these details are required for Campaign Financing regulations.
+  </p>
+</div>
