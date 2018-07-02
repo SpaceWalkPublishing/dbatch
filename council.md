@@ -15,6 +15,10 @@ Our family carefully chose to make West Melbourne home. Its location is perfect.
   </p>
 </div>
 
+<div class="box">
+<p style="text-align:center"><a href="https://www.crowdpac.com/campaigns/386625/daniel-batcheldor">All Campaign Contributions will be gratefully received.</a></p>
+</div>
+
 ## Our Community
 <p>
 Life should be about compromising, carefully navigating sensitive grey areas, being prepared to learn new things, and changing our minds when the evidence demands it. Life should not be about us versus them, purposeful ignorance, turning a blind eye, or greed. We all recognize that some people are doing well and that some need some help. We will all go through good times and bad. In every case, we should support each other as friends, neighbors, colleagues, and members of the City of West Melbourne community.     
@@ -117,7 +121,9 @@ A clean, efficient, and sustainable community comes about through intensive team
   </p>
 </div>
 
-<p style="text-align:center">CROWDPAC donations being gratefully accepted beginning July.</p>
+<div class="box">
+<p style="text-align:center"><a href="https://www.crowdpac.com/campaigns/386625/daniel-batcheldor">All Campaign Contributions will be gratefully received.</a></p>
+</div>
 
 <div class="box">
   <p>
