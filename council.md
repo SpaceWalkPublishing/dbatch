@@ -76,7 +76,7 @@ But hurricane preparedness is a year-round activity. The City Council should hel
 <b>We must particularly care for the families of our emergency services workers</b> who brave the conditions regardless of severity. At the most critical and stressful moments, many homes are missing key family members and don't know if they are safe. The City Council should ensure that the families of our emergency responders have the support they need to ride out the worst of it with as little stress as possible.
 </p>
 <p>
-We must help those who cannot help themselves, especially with putting up their own hurricane shutters. We must make sure that every home has a safe escape root in case of fire once a hurricane has passed (some shutters must come down so window escapes are available if necessary). As for leaving those shutters up after the hurricane, that is a grey area: While there will always be another hurricane on the horizon, neighbors may tire of looking at your shutters and you'll no doubt have to deal with your own HOA because of them.
+We must help those who cannot help themselves, especially with putting up their own hurricane shutters. We must make sure that every home has a safe escape route in case of fire once a hurricane has passed (some shutters must come down so window escapes are available if necessary). As for leaving those shutters up after the hurricane, that is a grey area: While there will always be another hurricane on the horizon, neighbors may tire of looking at your shutters and you'll no doubt have to deal with your own HOA because of them.
 </p>
 
 <a id="schools"></a>
@@ -88,7 +88,7 @@ West Melbourne has, and must maintain, great schools. Schools are where our chil
 <a id="infrastructure"></a>
 ### Infrastructure
 <p>
-West Melbourne residents should not have to worry about their homes flooding, their roads crumbling, and their power failing. Blocked drainage canals, pot-holed roads, and near collapsed electricity poles are unacceptable. And yet I have personally witnessed West Melbourne neighborhoods flooding, had my bones rattled on our roads, and seen a West Melbourne electrical transformer explode on a perfectly fine April morning.
+West Melbourne residents should not have to worry about their homes flooding, their roads crumbling, and their power failing. Blocked drainage canals, pot-holed roads, and near collapsed electricity poles are unacceptable. And yet I have personally witnessed West Melbourne neighborhoods flooding, had my bones rattled on our roads, and have seen a West Melbourne electrical transformer explode on a perfectly fine April morning.
 </p>
 <p>
 I will make sure these essential infrastructure items get the appropriate funding. Canal maintenance should be a top priority, we should work to keep the roads smooth, and modernize our power grid. These are both short term (drainage) and long term (roads, power) problems. All are issues that need to be continually addressed.
