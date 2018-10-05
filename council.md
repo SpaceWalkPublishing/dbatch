@@ -16,7 +16,11 @@ Our family carefully chose to make West Melbourne home. Its location is perfect.
 </div>
 
 <div class="box">
-<p style="text-align:center"><a href="https://www.crowdpac.com/campaigns/386625/daniel-batcheldor">All Campaign Contributions will be gratefully received.</a></p>
+<p style="text-align:center"><a href="https://www.crowdpac.com/campaigns/386625/daniel-batcheldor"><b>Donate by clicking: Here.</b></a></p>
+<p style="text-align:center">
+All Campaign Contributions will be gratefully received.<br>They will be used to help engage more West Melbourne residents.</p>
+<p style="text-align:center">
+<a href="https://www.facebook.com/danb4westmelbs/"><b>Like and Follow us on FaceBook for regular updates by clicking: Here.</b></a></p>
 </div>
 
 ## Our Community
@@ -45,21 +49,28 @@ The West Melbourne City Council should support our community, grow our community
 <a id="taxes"></a>
 ### Taxes
 <p>
-It's your money, and you should know how your elected officials allocate it. For me, budget transparency is a right: Residents should be able to easily find out how the City Council is spending funds. The budget should be easy to understand. The 2018 projected income was $13.5 million, but the 2018 projected spending was $19.1 million. The city was relying heavily on our reserve savings to fund the difference. Mid-year additions thankfully grew the general fund budget to $20 million. While there is no general fund debt, we have external debt for water and sewer revenue bonds. Over the course of the next 13-years this debt will cost around $18 million. These numbers were confirmed recently with the city manager.
+It's your money, and you should know how your elected officials allocate it. For me, budget transparency is a right: Residents should be able to easily find out how the City Council is spending funds. The budget should be easy to understand. The 2019 projected income is about $13.9 million, but the 2019 projected spending is about $16.2 million. The city is once again relying heavily on our reserve savings to fund the difference. Mid-year additions might grow the general fund budget, but we do not yet know that. The 2019 budget is approximately 19 percent less than 2018 due to the close out of capital projects like our wonderful Community Park and a much needed police station expansion.
 </p>
 <p>
-I will work hard to get our city out of debt as soon as possible and never approve a budget that spends more than our income. The 2019 budget is currently in development, but the 2018 adopted budget can be found here:
-
-<ul><li><a href="http://www.westmelbourne.org/documentcenter/view/4980">West Melbourne 2018 Adopted Budget.</a></li></ul>
+While there is no general fund debt, we have external debt for water and sewer revenue bonds. Over the course of the next 13-years this debt will cost around $18 million.
 </p>
+<p>
+I will work hard to get our city out of debt as soon as possible and never approve a budget that spends more than our income. The 2019 adopted budget can be found here:
+
+<ul><li><a href="http://www.westmelbourne.org/AgendaCenter/ViewFile/Agenda/_09182018-71">West Melbourne 2019 Adopted Budget, Agenda Item 5(A)1,2.</a></li></ul>
+</p>
+<p>
+The majority of the current City Council voted to increase the millage on West Melbourne residents by almost 12% for 2019. This will likely result in a very small increase per household of less than two dollars per month. In total, this will increase tax revenue to the City by about $300,000 annually (only about 24% of the revenue comes from ad valorem taxes). While this is just a small percentage of the overall budget, it seems unnecessary considering that current codes allow developers huge incentives to build various properties that further stress our somewhat shaky infrastructure. These developer incentives have obviously allowed the City to expand rapidly over the past decade, but we must how curtail favors to developers and start critically looking at a strategic plan that takes the best interest of current residents into primary consideration.    
+</p>
+
 
 <a id="emergency"></a>
 ### Emergency Services
 <p>
-About 44% of our budget goes to support our heroes in blue. They do a tremendous job. We are excitedly waiting the completion of the much-needed police station expansion and for the purchase of new SUVs. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The current Brevard County School Board has failed us with school security. It is now left to the courage of the City Council to solve the West Melbourne SRO problem. I will work to solve our SRO problem as fairly as possible.
+About 54% of our budget goes to support our heroes in blue. They do a tremendous job. We are excitedly waiting the completion of the much-needed police station expansion and for the purchase of new SUVs. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The current Brevard County School Board has failed us with school security. It is now left to the courage of the City Council to solve the West Melbourne SRO problem. I will work to solve our SRO problem as fairly as possible.
 </p>
 <p>
-The Police Athletic League (PAL) is a wonderful program that brings the youth of our City together with our Police Officers. PAL hosts our Food Truck Friday events on the 4th Friday of the month at Veteran's Memorial Complex. I will work to ensure PAL receives the necessary city support to continue its success. PAL does outstanding work for our Community and are looking for volunteers:
+The Police Athletic League (PAL) is a wonderful program that brings the youth of our City together with our Police Officers. PAL hosts our Food Truck Friday events on the 4th Friday of the month at our new Community Park. I will work to ensure PAL receives the necessary city support to continue its success. PAL does outstanding work for our Community and are looking for volunteers:
 
 <ul><li><a href="http://www.westmelbourne.org/DocumentCenter/View/4990">West Melbourne PAL Volunteer Application.</a></li></ul>
 </p>
