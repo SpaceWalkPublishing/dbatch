@@ -2,7 +2,7 @@
 layout: post
 title:  "U.S. Citizenship"
 date:   2018-05-10
-excerpt: "I become a U.S. citizen in May of 2018. Here are some of the reasons why."
+excerpt: "I became a U.S. citizen in May of 2018. Here are some of the reasons why."
 image: "/images/pic02.jpg"
 ---
 
