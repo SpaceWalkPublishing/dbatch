@@ -1,26 +1,19 @@
 ---
 layout: page
-title: Candidate for West Melbourne City Council
+title: Council Member-Elect, City of West Melbourne
 description: Community and Specifics
 ---
-## 2018 Candidate for West Melbourne City Council
+## Council Member-Elect, City of West Melbourne
 
 <span class="image left"><img src="{{ "/images/pic06.jpg" | absolute_url }}" alt="" /></span>
 <p>
 Our family carefully chose to make West Melbourne home. Its location is perfect. The schools are excellent. It's inland enough to reduce the worries of oceanside living, close to the airport, convenient for shopping, and easy to get to the amazing places in Brevard County. It's also very near our work places. West Melbourne is poised to be a strong and proud central Florida community supporting the core industries of the Space Coast.
 </p>
-<div class="box">
-  <p>
-<i>I am running for West Melbourne City Council to help grow our city into a shining example of central Florida living.</i>
-  </p>
-</div>
 
 <div class="box">
-<p style="text-align:center"><a href="https://www.crowdpac.com/campaigns/386625/daniel-batcheldor"><b>Donate by clicking: Here.</b></a></p>
-<p style="text-align:center">
-All Campaign Contributions will be gratefully received.<br>They will be used to help engage more West Melbourne residents.</p>
-<p style="text-align:center">
-<a href="https://www.facebook.com/danb4westmelbs/"><b>Like and Follow us on FaceBook for regular updates by clicking: Here.</b></a></p>
+  <p>
+<i>If you have any city issues that you'd like to discuss, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
+  </p>
 </div>
 
 ## Our Community
@@ -128,22 +121,6 @@ A clean, efficient, and sustainable community comes about through intensive team
 
 <div class="box">
   <p>
-<i>If you have any city issues that you'd like to hear my opinion on, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
-  </p>
-</div>
-
-<div class="box">
-<p style="text-align:center"><a href="https://www.crowdpac.com/campaigns/386625/daniel-batcheldor">All Campaign Contributions will be gratefully received.</a></p>
-</div>
-
-<div class="box">
-  <p>
-If you would rather mail a check, then thank you. Checks should be made out to "Daniel Batcheldor Campaign Account" and sent to P.O. Box 120391, West Melbourne, FL 32912. Please be sure to include your name, address, phone number, occupation and employer with any donations, because these details are required for Campaign Financing regulations.
-  </p>
-</div>
-
-<div class="box">
-  <p style="text-align:center">
-Paid for by Daniel Batcheldor for West Melbourne City Council.
+<i>If you have any city issues that you'd like to discuss, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
   </p>
 </div>
