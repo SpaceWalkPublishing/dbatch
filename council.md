@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Council Member-Elect, City of West Melbourne
+title: Council Member, City of West Melbourne
 description: Community and Specifics
 ---
-## Council Member-Elect, City of West Melbourne
+## Council Member, City of West Melbourne
 
 <span class="image left"><img src="{{ "/images/pic06.jpg" | absolute_url }}" alt="" /></span>
 <p>
@@ -12,7 +12,7 @@ Our family carefully chose to make West Melbourne home. Its location is perfect.
 
 <div class="box">
   <p>
-<i>If you have any city issues that you'd like to discuss, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
+<i>If you have any city issues that you'd like to discuss, please email me at <a href="mailto:dbatcheldor@westmelbourne.com">dbatcheldor@westmelbourne.org</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
   </p>
 </div>
 
@@ -42,28 +42,18 @@ The West Melbourne City Council should support our community, grow our community
 <a id="taxes"></a>
 ### Taxes
 <p>
-It's your money, and you should know how your elected officials allocate it. For me, budget transparency is a right: Residents should be able to easily find out how the City Council is spending funds. The budget should be easy to understand. The 2019 projected income is about $13.9 million, but the 2019 projected spending is about $16.2 million. The city is once again relying heavily on our reserve savings to fund the difference. Mid-year additions might grow the general fund budget, but we do not yet know that. The 2019 budget is approximately 19 percent less than 2018 due to the close out of capital projects like our wonderful Community Park and a much needed police station expansion.
-</p>
-<p>
-While there is no general fund debt, we have external debt for water and sewer revenue bonds. Over the course of the next 13-years this debt will cost around $18 million.
-</p>
-<p>
-I will work hard to get our city out of debt as soon as possible and never approve a budget that spends more than our income. The 2019 adopted budget can be found here:
+It's your money, and you should know how your elected officials allocate it. For me, budget transparency is a right: Residents should be able to easily find out how the City Council is spending funds. The budget should be easy to understand. The 2019 adopted budget can be found here:
 
 <ul><li><a href="http://www.westmelbourne.org/AgendaCenter/ViewFile/Agenda/_09182018-71">West Melbourne 2019 Adopted Budget, Agenda Item 5(A)1,2.</a></li></ul>
 </p>
-<p>
-The majority of the current City Council voted to increase the millage on West Melbourne residents by almost 12% for 2019. This will likely result in a very small increase per household of less than two dollars per month. In total, this will increase tax revenue to the City by about $300,000 annually (only about 24% of the revenue comes from ad valorem taxes). While this is just a small percentage of the overall budget, it seems unnecessary considering that current codes allow developers huge incentives to build various properties that further stress our somewhat shaky infrastructure. These developer incentives have obviously allowed the City to expand rapidly over the past decade, but we must now curtail favors to developers and start critically looking at a strategic plan that takes the best interest of current residents into primary consideration.    
-</p>
-
 
 <a id="emergency"></a>
 ### Emergency Services
 <p>
-About 54% of our budget goes to support our heroes in blue. They do a tremendous job. We are excitedly waiting the completion of the much-needed police station expansion and for the purchase of new SUVs. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The current Brevard County School Board has failed us with school security. It is now left to the courage of the City Council to solve the West Melbourne SRO problem. I will work to solve our SRO problem as fairly as possible.
-</p>
+Our heroes in blue do a tremendous job. We are excitedly waiting the completion of the much-needed police station expansion and for the purchase of new SUVs. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The Brevard County School Board has failed us with school security. It was left to the courage of the City Council to solve the West Melbourne SRO problem. We must continue to support our West Melbourne SROs who have already shown what an amazing job they do, and what a vital service to our community they provide.
+</p> 
 <p>
-The Police Athletic League (PAL) is a wonderful program that brings the youth of our City together with our Police Officers. PAL hosts our Food Truck Friday events on the 4th Friday of the month at our new Community Park. I will work to ensure PAL receives the necessary city support to continue its success. PAL does outstanding work for our Community and are looking for volunteers:
+The Police Athletic League (PAL) is a wonderful program that brings the youth of our City together with our Police Officers. PAL hosts our Food Truck Friday events on the 4th Friday of the month at our new Community Park. We must ensure PAL receives the necessary city support to continue its success. PAL does outstanding work for our Community and are looking for volunteers:
 
 <ul><li><a href="http://www.westmelbourne.org/DocumentCenter/View/4990">West Melbourne PAL Volunteer Application.</a></li></ul>
 </p>
@@ -71,10 +61,7 @@ The Police Athletic League (PAL) is a wonderful program that brings the youth of
 <a id="hurricanes"></a>
 ### Hurricanes
 <p>
-We live in Florida. Hurricanes happen and we must be as prepared as possible when they do. I was proud to see our Mayor Hal Rose leading by example during Matthew in 2016 and Irma in 2017. I bumped into him helping our residents fill sand bags before the winds and rain hit.
-</p>
-<p>
-But hurricane preparedness is a year-round activity. The City Council should help people get prepared early and stay prepared for as long as necessary. We must give ourselves every opportunity to be proactive rather than reactive about hurricanes.
+We live in Florida. Hurricanes happen and we must be as prepared as possible when they do. Hurricane preparedness is a year-round activity. The City Council should help people get prepared early and stay prepared for as long as necessary. We must give ourselves every opportunity to be proactive rather than reactive about hurricanes.
 </p>
 <p>
 <b>We must particularly care for the families of our emergency services workers</b> who brave the conditions regardless of severity. At the most critical and stressful moments, many homes are missing key family members and don't know if they are safe. The City Council should ensure that the families of our emergency responders have the support they need to ride out the worst of it with as little stress as possible.
@@ -86,28 +73,28 @@ We must help those who cannot help themselves, especially with putting up their 
 <a id="schools"></a>
 ### Schools
 <p>
-West Melbourne has, and must maintain, great schools. Schools are where our children get many of the skills and knowledge they need to live happy and successful lives. And as children are our future, we must take this responsibility very seriously. We cannot have great schools without great teachers. But, if we don't show teachers the respect they deserve and give them the support they need, how can they possibly perform at their full potential and provide the high-quality education our children deserve? It is no secret that our schools face funding issues at the county and state level, so strong leadership at the city level is essential. We recently saw this type of decisive action with regards to SROs. But now that support may be waivering due to the indecision and confusion of our state legislators and School Board. I will work to continue the momentum from the positive SRO decisions and look to directly incentivize the absolute best West Melbourne teachers in terms of both recruitment and retention.
+West Melbourne has, and must maintain, great schools. Schools are where our children get many of the skills and knowledge they need to live happy and successful lives. And as children are our future, we must take this responsibility very seriously. We cannot have great schools without great teachers. But, if we don't show teachers the respect they deserve and give them the support they need, how can they possibly perform at their full potential and provide the high-quality education our children deserve? It is no secret that our schools face funding issues at the county and state level, so strong leadership at the city level is essential. We have seen this type of decisive action with regards to the City support of our SROs. We must work to continue the momentum from the positive SRO decisions and look to directly incentivize the absolute best West Melbourne teachers in terms of both recruitment and retention.
 </p>
 
 <a id="infrastructure"></a>
 ### Infrastructure
 <p>
-West Melbourne residents should not have to worry about their homes flooding, their roads crumbling, and their power failing. Blocked drainage canals, pot-holed roads, and near collapsed electricity poles are unacceptable. And yet I have personally witnessed West Melbourne neighborhoods flooding, had my bones rattled on our roads, and have seen a West Melbourne electrical transformer explode on a perfectly fine April morning.
+West Melbourne residents should not have to worry about their homes flooding, their roads crumbling, and their power failing. Blocked drainage canals, pot-holed roads, and near collapsed electricity poles are unacceptable. We have witnessed West Melbourne neighborhoods flooding, had our bones rattled on our roads, and I have watched a West Melbourne electrical transformer explode on a perfectly fine April morning.
 </p>
 <p>
-I will make sure these essential infrastructure items get the appropriate funding. Canal maintenance should be a top priority, we should work to keep the roads smooth, and modernize our power grid. These are both short term (drainage) and long term (roads, power) problems. All are issues that need to be continually addressed.
+We must make sure these essential infrastructure items get the appropriate funding. Canal maintenance should be a top priority, we should work to keep the roads smooth, and modernize our power grid. These are both short term (drainage) and long term (roads, power) problems. All are issues that need to be continually addressed.
 </p>
 
 <a id="zoning"></a>
 ### Zoning and Permitting
 <p>
-City planning should be taken very seriously and we should hold contractors operating in here to high standards. West Melbourne is in the midst of a huge building boom. However, it is clear that some builders and contractors are cutting significant corners to maximize their profits at the expense of West Melbourne residents. Many subdivisions have experienced the heartbreak of homes needing significant repairs, which could have been avoided if some builders were not so greedy and respected their customers. We have some truly amazing local homebuilders in Brevard County, but the big national builders have obviously disrespected many West Melbourne residents. I will hold these builders accountable and carefully assess how permits are issued to these national corporations.
+City planning should be taken very seriously and we should hold contractors to high moral, environmental, and building standards. West Melbourne is in the midst of a huge building boom. However, it is clear that some builders and contractors are cutting significant corners to maximize their profits at the expense of West Melbourne residents. Many subdivisions have experienced the heartbreak of homes needing significant repairs, which could have been avoided if some builders had shown more respect their customers. We have some truly amazing local homebuilders in Brevard County, but the big national builders have obviously disrespected many West Melbourne residents. We must hold these builders accountable and carefully assess how permits are issued to these national corporations.
 </p>
 
 <a id="business"></a>
 ### Local businesses
 
-West Melbourne is a prime location for businesses. There is easy access from I95, and we are the corridor to Downtown Melbourne and beachside. Local businesses support our community with jobs and quality services. I will carefully consider how to retain our excellent local businesses, attract new ones, and support strategic development that has a minimal impact on our residents' quality of life.
+West Melbourne is a prime location for businesses. There is easy access from I95, and we are the corridor to Downtown Melbourne and beachside. Local businesses support our community with jobs and quality services. We must carefully consider how to retain our excellent local businesses, attract new ones, and support strategic development that has a minimal impact on our residents' quality of life.
 
 <a id="green"></a>
 ### Green spaces
@@ -117,10 +104,10 @@ Nature is inspiring. We should give ourselves every opportunity to enjoy what na
 <a id="pride"></a>
 ### Community pride
 
-A clean, efficient, and sustainable community comes about through intensive team work and a clear consciousness of our impact on our environment. The City Council must work closely with other municipalities, the county, and the state to implement methods for improving our environment and increasing the quality of life for all residents. Clear advice on recycling best practices, help for those looking to limit the impact of their home (and lifestyle) on the environment, and provisions to support the use of modern energy sources, are all fundamental drivers for the decisions I will make as a City Council member.
+A clean, efficient, and sustainable community comes about through intensive team work and a clear consciousness of our impact on our environment. The City Council must work closely with other municipalities, the county, and the state to implement methods for improving our environment and increasing the quality of life for all residents. Clear advice on recycling best practices, help for those looking to limit the impact of their home (and lifestyle) on the environment, and provisions to support the use of modern energy sources, are all fundamental drivers for the decisions we must make as a City Council.
 
 <div class="box">
   <p>
-<i>If you have any city issues that you'd like to discuss, please email me at <a href="mailto:dpbatcheldor@gmail.com">dpbatcheldor@gmail.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
+<i>If you have any city issues that you'd like to discuss, please email me at <a href="mailto:dbatcheldor@westmelbourne.com">dbatcheldor@westmelbourne.com</a> or write to PO BOX 120391, West Melbourne, FL 32912.</i>
   </p>
 </div>
