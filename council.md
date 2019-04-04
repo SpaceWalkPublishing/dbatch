@@ -7,7 +7,7 @@ description: Community and Specifics
 
 <span class="image left"><img src="{{ "/images/pic06.jpg" | absolute_url }}" alt="" /></span>
 <p>
-Our family carefully chose to make West Melbourne home. Its location is perfect. The schools are excellent. It's inland enough to reduce the worries of oceanside living, close to the airport, convenient for shopping, and easy to get to the amazing places in Brevard County. It's also very near our work places. West Melbourne is poised to be a strong and proud central Florida community supporting the core industries of the Space Coast.
+Our family carefully chose to make West Melbourne home. Its location is perfect. The schools are excellent. It's inland enough to reduce the worries of oceanside living, close to the airport, convenient for shopping, and easy to get to the amazing places in Brevard County. It's also very near our work places. West Melbourne is a strong and proud central Florida community supporting the core industries of the Space Coast.
 </p>
 
 <div class="box">
@@ -51,11 +51,6 @@ It's your money, and you should know how your elected officials allocate it. For
 ### Emergency Services
 <p>
 Our heroes in blue do a tremendous job. We are excitedly waiting the completion of the much-needed police station expansion and for the purchase of new SUVs. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The Brevard County School Board has failed us with school security. It was left to the courage of the City Council to solve the West Melbourne SRO problem. We must continue to support our West Melbourne SROs who have already shown what an amazing job they do, and what a vital service to our community they provide.
-</p> 
-<p>
-The Police Athletic League (PAL) is a wonderful program that brings the youth of our City together with our Police Officers. PAL hosts our Food Truck Friday events on the 4th Friday of the month at our new Community Park. We must ensure PAL receives the necessary city support to continue its success. PAL does outstanding work for our Community and are looking for volunteers:
-
-<ul><li><a href="http://www.westmelbourne.org/DocumentCenter/View/4990">West Melbourne PAL Volunteer Application.</a></li></ul>
 </p>
 
 <a id="hurricanes"></a>
