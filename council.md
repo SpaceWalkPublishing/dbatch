@@ -7,7 +7,7 @@ description: Community and Specifics
 
 <span class="image left"><img src="{{ "/images/pic06.jpg" | absolute_url }}" alt="" /></span>
 <p>
-Our family carefully chose to make West Melbourne home. Its location is perfect. The schools are excellent. It's inland enough to reduce the worries of oceanside living, close to the airport, convenient for shopping, and easy to get to the amazing places in Brevard County. It's also very near our work places. West Melbourne is a strong and proud central Florida community supporting the core industries of the Space Coast.
+Our family carefully chose to make West Melbourne home. Its location is perfect. The schools are excellent. It's inland enough to reduce the worries of oceanside living, close to the airport, convenient for shopping, and easy to get to the amazing places in Brevard County. West Melbourne is a strong and proud central Florida community supporting the core industries of the Space Coast.
 </p>
 
 <div class="box">
@@ -42,15 +42,15 @@ The West Melbourne City Council should support our community, grow our community
 <a id="taxes"></a>
 ### Taxes
 <p>
-It's your money, and you should know how your elected officials allocate it. For me, budget transparency is a right: Residents should be able to easily find out how the City Council is spending funds. The budget should be easy to understand. The 2019 adopted budget can be found here:
+It's your money, and you should know how your elected officials allocate it. For me, budget transparency is a right: Residents should be able to easily find out how the City Council is spending funds. The budget should be easy to understand. The 2020 adopted budget can be found here:
 
-<ul><li><a href="http://www.westmelbourne.org/AgendaCenter/ViewFile/Agenda/_09182018-71">West Melbourne 2019 Adopted Budget, Agenda Item 5(A)1,2.</a></li></ul>
+<ul><li><a href="https://www.westmelbourne.org/DocumentCenter/View/7749/Fiscal-Year-2019-2020-Adopted-Budget?bidId=">West Melbourne 2019-2020 Adopted Budget.</a></li></ul>
 </p>
 
 <a id="emergency"></a>
 ### Emergency Services
 <p>
-Our heroes in blue do a tremendous job. We are excitedly waiting the completion of the much-needed police station expansion and for the purchase of new SUVs. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The Brevard County School Board has failed us with school security. It was left to the courage of the City Council to solve the West Melbourne SRO problem. We must continue to support our West Melbourne SROs who have already shown what an amazing job they do, and what a vital service to our community they provide.
+Our heroes in blue do a tremendous job, and they now enjoy a recently completed police station expansion. We are deeply grateful to our much needed School Resource Officers (SROs), but our current State legislators have failed us with school security. The Brevard County School Board has failed us with school security. It was left to the courage of the City Council to solve the West Melbourne SRO problem. We must continue to support our West Melbourne SROs who have already shown what an amazing job they do, and what a vital service to our community they provide.
 </p>
 
 <a id="hurricanes"></a>
@@ -89,7 +89,7 @@ City planning should be taken very seriously and we should hold contractors to h
 <a id="business"></a>
 ### Local businesses
 
-West Melbourne is a prime location for businesses. There is easy access from I95, and we are the corridor to Downtown Melbourne and beachside. Local businesses support our community with jobs and quality services. We must carefully consider how to retain our excellent local businesses, attract new ones, and support strategic development that has a minimal impact on our residents' quality of life.
+West Melbourne is a prime location for businesses. There is easy access from I95, and we are the corridor to the airport, Downtown Melbourne, and beachside. Local businesses support our community with jobs and quality services. We must carefully consider how to retain our excellent local businesses, attract new ones, and support strategic development that has a minimal impact on our residents' quality of life.
 
 <a id="green"></a>
 ### Green spaces

@@ -28,6 +28,9 @@ Two weeks before committing to officer training, I was offered a Ph.D. position 
 My wife and I moved to the Sunshine State in 2010 for a faculty position at Florida Institute of Technology. Capitalizing on the benefits of the Space Coast, I've been able to take my research in directions I never thought possible. Some of that research was launched by SpaceX to the International Space Station.
 </p>
 <p>
+However, after spending 10-years working for a small private university, mostly as an administrator, it was time to move back to full-time research. Being so close to the John F. Kennedy Space Center, at such a productive spacetime in human history, presented an opportunity too exciting to pass up. In the summer of 2020, while the world reeled from a global pandemic, but while we once again launched a crew to the space station and sent another rover to Mars, I began working as a NASA contractor in a Subject Matter Expert position.
+</p>
+<p>
 Florida is always exciting&mdash;the space activities, the weather, the politics. I'm professionally keyed into the space activities, my family and I are prepared as best we can for the weather, and the politics are something I hope I can help with.
 </p>
 <p>
